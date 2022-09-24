@@ -2,6 +2,7 @@
   "name": "portfolio",
   "version": "0.0.0",
   "scripts": {
+    "build:prod": "node --version",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
